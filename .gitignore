@@ -1,4 +1,5 @@
-# Ignoring My Binaries
+# Ignoring My Binaries/Object Files
 
 
 lab12.bin
+main.o
